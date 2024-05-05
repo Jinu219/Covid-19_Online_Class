@@ -1,0 +1,121 @@
+header{
+  width:751.5px;
+  background-color:#D4F4FA;
+  text-align:center;
+  margin:auto;
+}
+head{
+  background-color:#D4F4FA;
+}
+body{
+  background-color:#D4F4FA;
+}
+.page{
+  width:751.5px;
+  height:1800px;
+  margin:auto;
+  padding:auto;
+}
+aside{
+  width:751.5px;
+  height:890px;
+  font-size:24px;
+  float:left;
+}
+section{
+  width:751.5px;
+  height:1000px;
+  font-size:50px;
+  float:right;
+}
+.pagename{
+  font-family: 'Dancing Script', cursive;
+  font-size:80px;
+  font-weight:bold;
+  width:400px;
+  padding-top:40px;
+  padding-bottom:40px;
+  text-align:center;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin:auto;
+}
+
+.TT{
+  font-family: 'Gamja Flower', cursive;
+  border-right:0px;
+  border-left:0px;
+  width:751.5px;
+  height:890px;
+  font-size:23px;
+  text-align:center;
+}
+.class-1{
+  background-color:aquamarine;
+  font-family: 'Quicksand', sans-serif;
+  font-size:30px;
+  width:27.5%;
+}
+.Sc{
+  height:890px;
+}
+.num{
+  width:100px;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+.title{
+  height:50px;
+}
+.time{
+  font-size:31px;
+  font-family: 'Calligraffitti', cursive;
+  padding-left:10px;
+  padding-right:10px;
+  height:100px;
+}
+.week{
+  font-size:45px;
+  font-family: 'Indie Flower', cursive;
+  width:110px;
+  color:#030066;
+}
+.sSubject{
+  font-family: 'Do Hyeon', sans-serif;
+  font-size:40px;
+  padding:10px;
+  padding-bottom:0px;
+}
+.name{
+  font-family: 'Hi Melody', cursive;
+  font-size:25px;
+  padding:0px;
+  padding-bottom:10px;
+  margin:0px;
+}
+.Subject{
+  font-family: 'Single Day', cursive;
+}
+.http{
+  text-align:center;
+}
+.tr{
+  font-family: 'Courgette', cursive;
+  font-size:48px;
+  background-color:lightgray;
+}
+.http a{
+  color:black;
+  text-decoration:none;
+}
+abbr{
+  text-decoration:none;
+}
+.zoom{
+  font-family: 'Nanum Gothic', sans-serif;
+}
+.pc{
+  width:40px;
+  height:20px;
+  float:right;
+  background-color:azure;
+}

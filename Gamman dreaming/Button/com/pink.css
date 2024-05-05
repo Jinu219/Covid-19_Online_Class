@@ -1,0 +1,95 @@
+'header{
+  width:100%;
+  background-color:#D4F4FA;
+  text-align:center;
+  margin:auto;
+}
+head{
+  background-color:#D4F4FA;
+}
+body{
+  width:100%;
+  margin:0px;
+  background-color:#D4F4FA;
+}
+section{
+  text-align:center;
+  margin:auto;
+  padding:auto;
+}
+footer{
+}
+.page{
+  width:1503px;
+  height:1000px;
+}
+.pagename{
+  font-family: 'Dancing Script', cursive;
+  font-size:80px;
+  font-weight:bold;
+  width:400px;
+  padding-top:40px;
+  padding-bottom:40px;
+  text-align:center;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin:auto;
+  float:none;
+}
+.class{
+  margin:0px;
+}
+a{
+  text-decoration:black;
+  color:black;
+}
+select{
+  width:200px;
+  height:30px;
+  text-align:center;
+  background-color:azure;
+  margin-bottom:1px;
+}
+option{
+  text-align:center;
+  background-color:azure;
+}
+.bar{
+  width:100%;
+  background-color:#5D5D5D;
+  height:10px;
+}
+.grade3{
+  background-color:#FEB9FF;
+
+  font-family: 'Do Hyeon', sans-serif;
+  font-size:30px;
+  width: 200px;
+  height: 200px;
+  border-radius: 10%;
+  border:0px azure;
+  text-align:center;
+}
+.grade3in{
+  width:130px;
+  height:130px;
+  background-color:azure;
+  border-radius:50%;
+  margin:auto;
+  line-height:130px;
+}
+.information{
+  width:200px;
+  height:20px;
+  font-size:20px;
+  font-family: 'Do Hyeon', sans-serif;
+  line-height:20px;
+  background-color:#92FFFF;
+  color:black;
+  text-align:center;
+  margin:auto;
+  padding:auto;
+  border-radius:5%;
+  border: 1px #747474;
+  text-align:center;
+}

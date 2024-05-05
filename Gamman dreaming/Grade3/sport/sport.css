@@ -1,0 +1,181 @@
+header{
+  width:100%;
+  background-color:#D4F4FA;
+  text-align:center;
+}
+head{
+  background-color:#D4F4FA;
+}
+body{
+  background-color:#D4F4FA;
+  margin:auto;
+  padding-right:200px;
+  padding-left:200px;
+}
+nav{
+  width:100%;
+  margin-bottom:30px;
+}
+p{
+  margin-top:0px;
+  margin-bottom:0px;
+}
+aside{
+  border:1px solid black;
+  float:left;
+  width:751.5px;
+  height:890px;
+  border-right:0px;
+  border-left:0px;
+  font-size:24px;
+}
+a{
+    text-decoration:black;
+}
+section{
+  float:right;
+  width:751.5px;
+  height:890px;
+  font-size:50px;
+  margin:auto;
+}
+.pagename{
+  font-family: 'Dancing Script', cursive;
+  font-size:80px;
+  font-weight:bold;
+  width:400px;
+  padding-top:40px;
+  padding-bottom:40px;
+  text-align:center;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin:auto;
+}
+.goto{
+  font-size:30px;
+  margin-top:0px;
+  margin-bottom:0px;
+  padding-top:0px;
+  padding-bottom:0px;
+  float:right;
+  height:34px;
+
+}
+.back{
+  font-size:30px;
+  margin-top:0px;
+  margin-bottom:0px;
+  padding-top:0px;
+  padding-bottom:0px;
+  float:left;
+  height:34px;
+  color:white;
+  font-family:'³ª´®½ºÄù¾î¶ó¿îµå';
+  border-right:1px solid white;
+}
+.back a{
+  text-decoration: black;
+  color:white;
+}
+.a-goto{
+  font-family:'³ª´®½ºÄù¾î¶ó¿îµå';
+  color:white;
+  border-left:1px solid white;
+  text-align:center;
+  line-height:34px;
+  float:right;
+}
+.class-1{
+  background-color:#F15F5F;
+}
+.class-2{
+  background-color:#6799FF;
+}
+.class-3{
+  background-color:#E5D85C;
+}
+.class-4{
+  background-color:#86E57F;
+}
+.bar{
+  border-right:0px;
+  border-left:0px;
+  margin-right:0px;
+  margin-left:0px;
+  width:100%;
+  background-color:#353535;
+  height:34px;
+  line-height:34px;
+}
+.bar p{
+  font-family:'³ª´®½ºÄù¾î¶ó¿îµå';
+}
+.TT-1{
+  float:left;
+  font-family:'³ª´®½ºÄù¾î¶ó¿îµå';
+  border-right:0px;
+  border-left:0px;
+  width:375.75px;
+  height:445px;
+  font-size:23px;
+  text-align:center;
+}
+.TT-2{
+  float:right;
+  font-family:'³ª´®½ºÄù¾î¶ó¿îµå';
+  border-right:0px;
+  border-left:0px;
+  width:375.75px;
+  height:445px;
+  font-size:23px;
+  float:right;
+  text-align:center;
+}
+.TT-3{
+  float:left;
+  font-family:'³ª´®½ºÄù¾î¶ó¿îµå';
+  border-right:0px;
+  border-left:0px;
+  width:375.75px;
+  height:445px;
+  font-size:23px;
+  text-align:center;
+}
+.TT-4{
+  float:right;
+  font-family:'³ª´®½ºÄù¾î¶ó¿îµå';
+  border-right:0px;
+  border-left:0px;
+  width:375.75px;
+  height:445px;
+  font-size:23px;
+  text-align:center;
+}
+.num{
+  width:100px;
+  font-family:'³ª´®½ºÄù¾î¶ó¿îµå';
+}
+.time{
+  font-size:20px;
+}
+.week{
+  font-family: 'Indie Flower', cursive;
+  width:80px;
+}
+abbr{
+    text-decoration:black;
+}
+.Subject{
+  font-family:"³ª´®½ºÄù¾î¶ó¿îµå";
+  font-size:48px;
+}
+.Sport{
+  text-align:center;
+}
+.Sport a{
+  color:black;
+}
+.tr{
+    font-family: 'Courgette', cursive;
+    background-color:lightgray;
+}
