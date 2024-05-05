@@ -1,0 +1,122 @@
+body{
+  background-color:azure;
+  margin:0px;
+  width:100%;
+}
+header{
+  width:100%;
+  text-align:center;
+  margin:auto;
+}
+.page{
+  width:100%;
+  margin:auto;
+}
+aside{
+  width:100%;
+  text-align:center;
+}
+section{
+  width:100%;
+  height:100%;
+  text-align:center;
+}
+.title{
+  font-family: 'Dancing Script', cursive;
+  font-size:70px;
+  width:200px;
+  padding-top:40px;
+  padding-bottom:40px;
+  text-align:center;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin:auto;
+}
+.schedule{
+  margin:auto;
+  margin-top:15px;
+}
+.table{
+  font-family: 'Gamja Flower', cursive;
+  width:751.5px;
+  height:890px;
+  font-size:50px;
+  margin:auto;
+  text-align:center;
+}
+
+.time{
+  font-size:31px;
+  font-family: 'Calligraffitti', cursive;
+  padding-left:3px;
+  padding-right:3px;
+  height:100px;
+}
+
+.week{
+  height:50px;
+  padding:auto;
+  margin:auto;
+  font-size:36px;
+  font-family: 'Dancing Script', cursive;
+  text-align:center;
+  color:#F6F6F6;
+  background-color: #A6A6A6;
+}
+
+.Subject{
+  font-family: 'Nanum Gothic';
+  font-size:40px;
+  padding-top:1px;
+  padding-bottom:1px;
+  height:100px;
+  text-align:center;
+}
+
+.name{
+  font-family: 'Hi Melody', cursive;
+  font-size:25px;
+  padding:0px;
+  margin:0px;
+}
+
+.ssubject{
+    font-family: 'Hi Melody', cursive;
+  font-size:41px;
+  height:60px;
+}
+.http{
+  text-align:center;
+  margin:auto;
+  width:751.5px;
+}
+.tr{
+  font-family: 'Caveat', cursive;
+  background-color:lightgray;
+  font-size:45px;
+  height:78px;
+}
+a{
+  color:black;
+  text-decoration:none;
+}
+abbr{
+  text-decoration:none;
+}
+.zoom{
+  text-align:center;
+  font-family: 'Single Day', cursive;
+  font-size:43px;
+}
+.num{
+  font-size:40px;
+  font-family: 'Calligraffitti', cursive;'
+}
+
+footer{
+
+}
+.sport{
+  width:751.5px;
+  text-align:center;
+}
