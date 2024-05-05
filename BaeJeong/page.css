@@ -1,0 +1,63 @@
+body{
+  background-color : azure;
+  margin:0px;
+  width:100%;
+}
+header{
+  font-family: 'Lobster';
+  font-size: 80px;
+  text-align:center;
+}
+h1{
+  padding-bottom:0px;
+  margin-bottom:0px;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+    margin-top:4px;
+    margin-bottom:4px;
+}
+aside{
+  width:710px;
+  margin:auto;
+  text-align:center;
+}
+table{
+  width:700px;
+  background-color:white;
+  text-align:center;
+}
+tr{
+  height:50px;
+}
+td{
+  padding:auto;
+  height:115px;
+}
+.week{
+  height:50px;
+  margin:auto;
+  font-size:33px;
+  font-family: 'Dancing Script', cursive;
+  text-align:center;
+  color:#F6F6F6;
+  background-color: #A6A6A6;
+}
+
+.class{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.subject{
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size:40px;
+}
+.num{
+  font-size:30px;
+  font-family: 'Titillium Web', sans-serif;
+}
+.name {
+    font-family: 'Hi Melody', cursive;
+    font-size: 25px;
+    padding: 0px;
+    margin: 0px;
+}
